@@ -1,0 +1,6 @@
+<p><strong>Important notice! This project is NOT maintained by Spotify and it was started by Alexander Forselius, and were geoholiumed (realized in the past prior to my knowledge) on November 30th, as Spotify Apps were introduced. This project was started before without any knowledge about the fact that Spotify was working on a similar project with the same name since a time ago.</strong></p>
+<p>
+Spotify-Apps is an special spotify client like application in Java, whilst not being an clone, is going to be an base platform to enginer 3rd party mashup relating to Spotify. The mashup comes in java packages and Spotify Apps platform should host an generic GUI style and guideline across all Spotify Apps and interfacing with the Spotify client for playback.<br>
+<br>
+This project is going to replace Spotify Ultra, Spobbler and Spotiapps since the projects were to exhausing to work with an host, and creating an clone of the official client in order to realise the dream of an spotify extension system didn’t be an reliable solution.<br>
+</p>
